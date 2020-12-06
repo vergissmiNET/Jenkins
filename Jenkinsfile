@@ -8,4 +8,9 @@ pipeline {
         }
     }
 }
-# just a change in the file
+/* this
+   is a
+   multi-line comment */
+
+// this is a single line comment
+
